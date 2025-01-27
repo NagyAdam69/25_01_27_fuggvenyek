@@ -35,4 +35,3 @@ while True:
         print("Vége")
         break
     eljaras2(int(szam_input))
-    
